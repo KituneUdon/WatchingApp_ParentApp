@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ParentApp2</string>
+    <string name="app_name2">CoCO!大人用</string>
+
+    <string name="BluetoothText">子供端末とBluetoothで接続します。</string>
+    <string name="Next">次へ</string>
+    <string name="childNow">在宅確認</string>
+    <string name="childOff">子機との接続に失敗しています。</string>
+    <string name="childOn">在宅中</string>
+    <string name="gpsNow">位置を確認する</string>
+    <string name="camNow">周囲の映像を見る</string>
+    <string name="lostPrev">迷子を防止する機能</string>
+    <string name="setting">Bluetooth設定</string>
+    <string name="back">戻る</string>
+    <string name="Reload">更新</string>
+    <string name="BlueSet">Bluetooth設定を変更します。</string>
+    <string name="Fin">完了</string>
+    <string name="PhoneNumberSetting">電話番号の設定</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
